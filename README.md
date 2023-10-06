@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/aoyo-jun/aoyo-jun/main/intro.gif" alt="Hi! I'm Patrick Jun" title="👋 Hi there! I'm Patrick Jun"/>]()
+[<img src="https://raw.githubusercontent.com/aoyo-jun/aoyo-jun/main/intro.gif" alt="Hi! I'm Patrick Jun" title="👋 Hi there! I'm Patrick Jun"/>](https://github.com/aoyo-jun)
 
 ## ✒️ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
