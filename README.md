@@ -2,14 +2,15 @@
 
 ## ✒️ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 👨‍💻 Front-end Web Developer
+- 👨‍💻 Creative Web Developer
 - 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 October 𝟸0𝟸6
-- 🔅 I love 2D/3D animated sites
+- 🔅 Passion for innovative, creative and animated sites
 
 - 📖 Currently learning...
 
   - JavaScript
   - React.js
+  - Next.js
   - SASS
   - Tailwind
   - Three.js
@@ -18,7 +19,6 @@
 - 🧠 I also know a little bit of...
   - Node.js
   - Express.js
-  - Next.js
   - jQuery
   - EJS
   - SQL
