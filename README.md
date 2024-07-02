@@ -7,7 +7,7 @@
 - 🔅 Passion for innovative, creative and animated sites
 
 - 📖 Projects (Not started, ongoing or finished)...
-  ✅ Random quote generator
+  - ✅ Random quote generator
   - QR Code generator
   - Portfolio
   - To do list
