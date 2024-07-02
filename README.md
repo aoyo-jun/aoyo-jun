@@ -6,23 +6,26 @@
 - 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 October 𝟸0𝟸6
 - 🔅 Passion for innovative, creative and animated sites
 
-- 📖 Currently learning...
-
-  - JavaScript
-  - React.js
-  - Next.js
-  - SASS
-  - Tailwind
-  - Three.js
-  - Anime.js
-
-- 🧠 I also know a little bit of...
-  - Node.js
-  - Express.js
-  - jQuery
-  - EJS
-  - SQL
-  - APIs
+- 📖 Projects (Not started, ongoing or finished)...
+  - Random quote generator
+  - QR Code generator
+  - Portfolio
+  - To do list
+  - Calculator
+  - Quiz
+  - Real time chat app
+  - Travel booking system
+  - Chat bot
+  - Personal finance tracker
+  - HTTP server
+  - AI partner
+  - My own Git
+  - Algorithm visualizer
+  - Neural Network
+  - A video game
+  - My own BitTorrent
+  - Real-time editor
+  - My own Redis
 
 ## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
