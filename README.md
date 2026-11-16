@@ -3,7 +3,7 @@
 ## ✒️ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 👨‍💻 Creative Web Developer
-- 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 October 𝟸0𝟸6
+- 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 December 𝟸0𝟸6
 - 🔅 Passion for innovative, creative and animated sites
 
 ## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
