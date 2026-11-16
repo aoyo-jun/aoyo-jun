@@ -1,14 +1,36 @@
 [<img src="https://raw.githubusercontent.com/aoyo-jun/aoyo-jun/main/intro.gif" alt="Hi! I'm Patrick Jun" title="👋 Hi there! I'm Patrick Jun"/>](https://github.com/aoyo-jun)
 
-## ✒️ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## ✍️ About Me
 
-- 👨‍💻 Creative Web Developer
-- 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 December 𝟸0𝟸6
-- 🔅 Passion for innovative, creative and animated sites
+- 🤖 AI-focused developer intern at **CI&T**, building LLM tools that run in production
+- 📚 Computer Science student, graduating **December 2026**
+- 🔬 Interested in NLP, LLM agents and making models cheap and fast enough to actually use
 
-## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 🚀 Featured Work
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! But why not put it here also:
-<a href="mailto: patrickjun2208@gmail.com" >patrickjun2208@gmail.com</a>
+### [Sentiment analysis for Brazilian Portuguese reviews](https://github.com/aoyo-jun/olist-sentiment-bertimbau)
+Classifies Olist e-commerce reviews as negative, neutral or positive.
+- TF-IDF + Logistic Regression baseline (macro-F1 **0.661**) vs. fine-tuned **BERTimbau** (macro-F1 **0.689**)
+- Cost and latency trade-off measured: BERTimbau is ~50x slower on CPU and 436 MB vs. 1.6 MB
+- Model published on [Hugging Face](https://huggingface.co/patrickjunmiyauraihy/bertimbau-olist-sentiment)
 
-[<img src="https://raw.githubusercontent.com/aoyo-jun/aoyo-jun/main/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/patrick-jun-miyaura-ihy/)
+`Python` `PyTorch` `Hugging Face Transformers` `scikit-learn` `pandas`
+
+### AI code review agent (CI&T, private)
+An agent that reviews pull requests in 3 repositories with the Claude API and comments on Bitbucket.
+- Flagged ~200 issues in 30 PRs in 2 months before human review, ~10 of them critical
+- ~US$ 0.02 per run by routing each check to the cheapest option that works: Claude Sonnet, Claude Haiku or deterministic scripts
+
+### Web projects
+- [E-commerce store](https://github.com/aoyo-jun/ecommerce-store) + [admin dashboard](https://github.com/aoyo-jun/ecommerce-admin) (Next.js, TypeScript)
+- [Discord clone](https://github.com/aoyo-jun/discord-clone) (Next.js, TypeScript)
+
+## 🛠️ Tech Stack
+
+**AI / ML:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · Claude API · Prompt engineering
+**Web:** TypeScript · React · Next.js · Node.js · PHP / Drupal
+**Tools:** Git · SQL · REST APIs
+
+## ✉️ How to reach me
+
+[patrickjun2208@gmail.com](mailto:patrickjun2208@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-jun-miyaura-ihy)
